@@ -83,4 +83,5 @@ endmodule
 <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/c7015f98-ed3b-41ca-b07c-9c933462a6ad" />
 
 **RESULTS**
+
 Thus the JK FLIPFLOP implemented successfully and truth table has verified.
